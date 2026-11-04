@@ -1,0 +1,2310 @@
+{
+  "config": "glf",
+  "slug": "glf-search",
+  "videos": 1433,
+  "transcribed": 974,
+  "skipped": [
+    {
+      "id": "7_ppcmqngd0",
+      "title": "Enabling the transition: Incentives and finance for regenerative agriculture",
+      "reason": "no-en-captions"
+    },
+    {
+      "id": "_RRPBhekG60",
+      "title": "GLF Climate 2025, as it happened",
+      "reason": "no-en-captions"
+    },
+    {
+      "id": "CVEL-ZLap70",
+      "title": "Building climate resilience and sustainable livelihoods in India",
+      "reason": "no-en-captions"
+    },
+    {
+      "id": "MbccAaZMruk",
+      "title": "Rights in Landscapes #thinklandscapes",
+      "reason": "no-en-captions"
+    },
+    {
+      "id": "SsU2G5-kD1c",
+      "title": "Komal Kumar from Fiji on Climate Justice",
+      "reason": "no-en-captions"
+    },
+    {
+      "id": "5n7iZOo2tME",
+      "title": "Jennifer Morgan - Closing Remarks, GLF at COP24",
+      "reason": "no-en-captions"
+    },
+    {
+      "id": "763dmH8jhFI",
+      "title": "Victoria Tauli-Corpuz - Closing Remarks, GLF at COP24",
+      "reason": "no-en-captions"
+    },
+    {
+      "id": "xpu3tpvsP6k",
+      "title": "Interview with Mina Setra - GLF at COP24",
+      "reason": "no-en-captions"
+    },
+    {
+      "id": "QCyuS-EM_9o",
+      "title": "The private sector, key to tackling the sustainability challenge",
+      "reason": "no-en-captions"
+    },
+    {
+      "id": "66aCtqFArnM",
+      "title": "H.E. Siti Nurbaya - Opening plenary GLF Bonn 2018",
+      "reason": "no-en-captions"
+    },
+    {
+      "id": "eVOxvZ-V5hM",
+      "title": "Landscape Leadership",
+      "reason": "no-en-captions"
+    },
+    {
+      "id": "QoKYtk5ka9I",
+      "title": "Landscape leadership in 60 seconds: Nistia Ningati, Indonesia",
+      "reason": "no-en-captions"
+    },
+    {
+      "id": "2-1s6tiN1Bk",
+      "title": "Landscape leadership in 60 seconds: Hannifa Kut, Kenya",
+      "reason": "no-en-captions"
+    },
+    {
+      "id": "LvVwbg_poWU",
+      "title": "Vania Olmos Lau Youth Leader GLF",
+      "reason": "no-en-captions"
+    },
+    {
+      "id": "20fckwE-Ntc",
+      "title": "ELIODE BAKOLE YALIRE ON LANDSCAPES IN AFRICA 2",
+      "reason": "no-en-captions"
+    },
+    {
+      "id": "NBuE4R-w8LA",
+      "title": "GLF Investment Case 2018",
+      "reason": "no-en-captions"
+    },
+    {
+      "id": "AUUS1EM28rQ",
+      "title": "Joan Carling - Closing plenary GLF Bonn 2017",
+      "reason": "no-en-captions"
+    },
+    {
+      "id": "H86iQ9eMLy8",
+      "title": "Erik Solheim - The future of the GLF",
+      "reason": "no-en-captions"
+    },
+    {
+      "id": "uxp4d1uRnFs",
+      "title": "Catalyzing investments for landscape restoration in agrifood supply chains",
+      "reason": "no-en-captions"
+    },
+    {
+      "id": "sAOTv7LhpLU",
+      "title": "GLF Africa 2022 Digital Conference: How to build an equitable, resilient food future (TRAILER)",
+      "reason": "no-en-captions"
+    },
+    {
+      "id": "nuRyaX_xgDs",
+      "title": "Generation Restoration Film Festival Panel: From Devil’s Breath",
+      "reason": "no-en-captions"
+    },
+    {
+      "id": "0NylKEkGHeE",
+      "title": "Festival de Cinema da Amazônia",
+      "reason": "no-en-captions"
+    },
+    {
+      "id": "aFs3vSA4ljk",
+      "title": "GLF AMAZONIA: THE TIPPING POINT",
+      "reason": "no-en-captions"
+    },
+    {
+      "id": "4bRWNIazxHg",
+      "title": "What is biodiversity?",
+      "reason": "no-en-captions"
+    },
+    {
+      "id": "Xr4eF1wa8GE",
+      "title": "What are the Aichi Targets?",
+      "reason": "no-en-captions"
+    },
+    {
+      "id": "FNdvHQSQxvw",
+      "title": "5 things you can do to protect biodiversity",
+      "reason": "no-en-captions"
+    },
+    {
+      "id": "tveBE39yZrg",
+      "title": "6 ways indigenous technologies are saving the world",
+      "reason": "no-en-captions"
+    },
+    {
+      "id": "8p6DTiY1dNo",
+      "title": "5 Species estimated to have less than 100 animals left",
+      "reason": "no-en-captions"
+    },
+    {
+      "id": "Qwdud55RJ4k",
+      "title": "Drylands - what, where and why should we care?",
+      "reason": "no-en-captions"
+    },
+    {
+      "id": "XpSvcWEUV5Q",
+      "title": "GLF 2020 Theme: Food and Livelihoods",
+      "reason": "no-en-captions"
+    },
+    {
+      "id": "q06DFVk6wPM",
+      "title": "The role of stories in the time of crises",
+      "reason": "no-en-captions"
+    },
+    {
+      "id": "1Uwuz_IF_Zw",
+      "title": "GLF Live trailer",
+      "reason": "no-en-captions"
+    },
+    {
+      "id": "pYNHJiHmN6U",
+      "title": "Interview with Jennifer Pryce - GLF Luxembourg 2019",
+      "reason": "no-en-captions"
+    },
+    {
+      "id": "K3944ACg_RY",
+      "title": "Interview with Dorothée Herr - GLF Luxembourg 2019",
+      "reason": "no-en-captions"
+    },
+    {
+      "id": "er1Fu7anAmg",
+      "title": "Interveiw with Johnmary Kavuma - GLF Accra 2019",
+      "reason": "no-en-captions"
+    },
+    {
+      "id": "UivKArdVO7w",
+      "title": "Live Interview with Alexandria Villaseñor, American climate activist, at COP 25",
+      "reason": "no-en-captions"
+    },
+    {
+      "id": "cMw9Q_d6OWE",
+      "title": "Live from COP25: So, what about the Blue COP?",
+      "reason": "no-en-captions"
+    },
+    {
+      "id": "lFQPXAPygT8",
+      "title": "COP 25: 8 Facts about Indigenous Peoples",
+      "reason": "no-en-captions"
+    },
+    {
+      "id": "XlV9TjZ0Fcw",
+      "title": "Central America: Developing a Region of Opportunities for Investments in Landscape Restoration",
+      "reason": "no-en-captions"
+    },
+    {
+      "id": "mUolhutjALM",
+      "title": "Jolene Marie Cholock-Rotinsulu, Miss International Indonesia 2019 to speak at GLF New York 2019",
+      "reason": "no-en-captions"
+    },
+    {
+      "id": "z6Odb-lBPpc",
+      "title": "Felix Finkbeiner, found of Plant-for-the-Planet to speak at GLF New York 2019",
+      "reason": "no-en-captions"
+    },
+    {
+      "id": "kcNnwZ4P64M",
+      "title": "The ocean is a part of me, Callie Veelenturf, USA",
+      "reason": "no-en-captions"
+    },
+    {
+      "id": "j7grx0EPvM0",
+      "title": "Rangelands by ILRI/ CGIAR - GLF New York 2019",
+      "reason": "no-en-captions"
+    },
+    {
+      "id": "IXpgOmDeryI",
+      "title": "Street Art x Restoration in NYC",
+      "reason": "no-en-captions"
+    },
+    {
+      "id": "zWR5OkcZRG4",
+      "title": "GLF New York 2019 trailer: Restore the Earth",
+      "reason": "no-en-captions"
+    },
+    {
+      "id": "lY4R4unhdUo",
+      "title": "The landscapes are part of us",
+      "reason": "no-en-captions"
+    },
+    {
+      "id": "gLQKVkqDpW4",
+      "title": "Global Landscapes Forum Bonn 2019: As it happened",
+      "reason": "no-en-captions"
+    },
+    {
+      "id": "p1J8I1VoMXM",
+      "title": "Landscape Heroes - GLF Bonn 2019",
+      "reason": "no-en-captions"
+    },
+    {
+      "id": "CBvKOdb67Gk",
+      "title": "Alec Baldwin (video address) GLF Bonn 2019",
+      "reason": "no-en-captions"
+    },
+    {
+      "id": "oCEymdooCY4",
+      "title": "My Commitment to Creating a More Equal World.",
+      "reason": "no-en-captions"
+    },
+    {
+      "id": "3fu-W6LHERk",
+      "title": "GLF Kyoto 2019 Magdalene Paul",
+      "reason": "no-en-captions"
+    },
+    {
+      "id": "J0xtjnZF3tc",
+      "title": "Kosuke Mizuno - GLF Kyoto 2019",
+      "reason": "no-en-captions"
+    },
+    {
+      "id": "0Vtj3h-totk",
+      "title": "Kyoto 2019 Digital Edition - ACT 3",
+      "reason": "no-en-captions"
+    },
+    {
+      "id": "KHuLzCmIM6s",
+      "title": "Global Landscapes Forum Live Stream",
+      "reason": "no-en-captions"
+    },
+    {
+      "id": "-8TYUUfOfg8",
+      "title": "Kyoto 2019 Digital Edition - ACT 2",
+      "reason": "no-en-captions"
+    },
+    {
+      "id": "5CXIv21czo4",
+      "title": "Dayana Blanco, Restoration Steward 2024 and GLFx Uru Uru Bolivia",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "TxPPczL6PSI",
+      "title": "AgroTalk Live: Voices of regeneration",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "b-GxOskh-m8",
+      "title": "Partnerships for regeneration: Aligning business and nature",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "bWcvwQ09B7k",
+      "title": "Women’s leadership as a polyculture of care and collaboration",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "VLwW2JdqazY",
+      "title": "Opening plenary: Unlocking a regenerative opportunity",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "d1WmdO8ic-8",
+      "title": "Closing plenary: A call to collaborative action",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "xcQy8-UcG-4",
+      "title": "Voices of the Landscape: Stories from the mountains",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "CMcBQq4qrnU",
+      "title": "Dr. Carlos Nobre, Nobel Laureate, on healing the land",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "QP0ZnZOaCzo",
+      "title": "Regenerative Futures for the Gran Chaco",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "lk1V56NBqUo",
+      "title": "Gastronomy, Identity & Regeneration",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "a3H43gkmCiw",
+      "title": "Women Leadership in Regenerative Action",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "usU2AvWMWnE",
+      "title": "Cerrado's Regeneration starts with People",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "OjVtCPtkJ9c",
+      "title": "Regeneration rooted in Radical Collaboration",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "wiTBcAAx2PU",
+      "title": "8th GLF Investment Case, as it happened",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "uq6z5a0hycQ",
+      "title": "NA",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "rUBEeGbQJRg",
+      "title": "Forest world tour: Latin America",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "_T-FSwPtbOI",
+      "title": "27 countries. 8 commodities. $345 million in grant funding. What did we learn?",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "wFROfz69i-4",
+      "title": "FOLUR Indonesia: Safeguard and Gender Training",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "vzYC7hnN6Mc",
+      "title": "NA",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "ZW0fY5Qax30",
+      "title": "Environmental entrepreneurship The challenge of launching and fundraising for biodiversity projects",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "Wjmf_V1_bBs",
+      "title": "How can we finance biodiversity",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "6tnY-tNmOgU",
+      "title": "Financial instruments for biodiversity in Mexico",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "HnA9hUi3fVg",
+      "title": "Kleber Karipuna",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "lg4S3I4wl9U",
+      "title": "Ceiça Pitaguary",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "jZqq0K4lR9Q",
+      "title": "Protecting forests and biodiversity in addressing illicit drug cultivation_draft",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "_Kt_lXD9NhE",
+      "title": "Funding with purpose: Territorial Funds as a Pathway to Enable Women-led Initiatives",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "--rYie5Wv3w",
+      "title": "Proyecto Land A collaborative ownership model for the creation of protected areas",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "yVs6dffd2Tc",
+      "title": "Closing the biodiversity funding gap through insurance",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "roFqDX46p4c",
+      "title": "Agricultural financing: The key to saving our biodiversity",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "OjxHTIARaSQ",
+      "title": "Closing the finance gap in sustainable forest management and silviculture",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "KYGrEbe-LUM",
+      "title": "Agricultural financing: The key to saving our biodiversity",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "-_O3htve8k4",
+      "title": "Proyecto Land: A collaborative ownership model for the creation of protected areas",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "puw-OV2sfdo",
+      "title": "THE INVISIBLE CORRIDOR – Where nature and people grow",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "w-Lf-xbPDKw",
+      "title": "Voices of the landscapes",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "z0bCNDNLYD0",
+      "title": "Restoring the Uru Uru Lake: The power of Indigenous communities against environmental colonialism",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "sXZzkplsBzY",
+      "title": "Connecting Central American landscapes - biological corridors for ecosystem restoration",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "SZV6NVY_bhI",
+      "title": "Sandrine Dixson-Declève: Building an Earth for All",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "N-X7BEQ4zOk",
+      "title": "Sônia Guajajara: We Can’t Solve Climate Change Without Indigenous Peoples",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "BWNiPM-dPGI",
+      "title": "NA",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "-8fhQILIDd4",
+      "title": "Teaser: Sibelle de Andrade Silva at FOLUR São Paulo 2023",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "erPY4myh990",
+      "title": "Sibelle de Andrade Silva: A Greener Future for Brazil",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "f2ogG7yFQgw",
+      "title": "FOLUR partner spotlight: FAO shaping deforestation-free agricultural commodity value chains",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "SjKz8ShzaM8",
+      "title": "Madagascar I FOLUR Partner Meeting Brazil",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "BDvEwmzm43o",
+      "title": "Indonesia I FOLUR Partner Meeting Brazil",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "4nY3sw1Ee4c",
+      "title": "Burundi I FOLUR Partner Meeting Brazil",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "hUmVUJgnsa8",
+      "title": "Guinea I FOLUR Partner Meeting Brazil",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "SFGsWKbzFgA",
+      "title": "Paraguay I FOLUR Partner Meeting Brazil",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "c8GeozZ_MkM",
+      "title": "Olena Dadus I Ukraine I FOLUR Partner Meeting Brazil",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "AFl4-guQ_SU",
+      "title": "Cote d'Ivoire I FOLUR Partner Meeting Brazil",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "WXLGwO6Kp8U",
+      "title": "Peru I FOLUR Partner Meeting Brazil",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "qrUn6QOPzYM",
+      "title": "Mexico I FOLUR Partner Meeting Brazil",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "LvqUax0cUq0",
+      "title": "How Can Finance Sustain and Restore Nature?",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "2Xi7289zaFo",
+      "title": "TERRAGRN: Sustainable Bamboo in South Africa",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "cUN_tq9XJ6s",
+      "title": "NA",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "644R3FlrNAg",
+      "title": "Catalyzing investments for landscape restoration in agrifood supply chains",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "rp0zedPm1yY",
+      "title": "Standing on climate resilient ground: Adaptation effective soil protection and rehabilitation",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "CcJucdPysto",
+      "title": "\"The Business Case initiative\": collective action and innovation to reduce deforestation",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "b3zd8blIsYU",
+      "title": "Virtual tour: Exchanging experiences with sustainable landscapes in the Peruvian Amazon",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "AJ5WevZQyPo",
+      "title": "What can we do now: Inspirational talks by Maria Ohisalo and Francisca Arara",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "y6quR7S0KPo",
+      "title": "The work of GLFx chapters",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "VmkyLFCrtDM",
+      "title": "NA",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "tzD_uAnWT4Y",
+      "title": "NA",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "3sfr34NH6Vk",
+      "title": "4+1 reasons to include civil society in decision making in Africa",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "GNsvTXmKDNw",
+      "title": "(French audio) Achieving sustainable commodity value chains in Africa",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "lZPHTFhe0Dk",
+      "title": "Inspirational talks by Joshua Omonuk, Fatmata Binta and Eva Makandi",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "0rUnXAAn3to",
+      "title": "(French audio) Closing Plenary: Towards a resilient, equitable and African-led food future",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "IW-UfInOIF0",
+      "title": "(French audio) Opening Plenary: Painting a resilient and equitable food future",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "-Ksp6xJg5QA",
+      "title": "(French audio) Land, Food and Climate: African solutions for food and climate resilience",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "rROTxxhbhk8",
+      "title": "(French audio) From landscape to table, food systems in perspective",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "x14rD6fMO7M",
+      "title": "(French audio) Voices of the landscape: The role of Cameroon’s traditional rulers in restoration",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "sh_t0xxEF4Y",
+      "title": "(French audio) Voices of the landscape: A day in the field",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "B-0dWH0QqIA",
+      "title": "(French audio) The seeds of food justice",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "WYzIKr2EXnA",
+      "title": "(French audio) Mobilizing finance at scale to boost sustainable agriculture in Africa",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "FJ29snMObp8",
+      "title": "(French audio) GLF Africa - Creatives for Climate",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "0vzhxlD_hCI",
+      "title": "(French audio) Inspirational talks by Joshua Omonuk, Fatmata Binta and Eva Makandi",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "45KtwyJP8XQ",
+      "title": "(FR audio) Reaching impact across the board",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "SVU9uc8Y57w",
+      "title": "Droits, récompenses et responsabilités | GLF at UNCCD COP15",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "4q6aW5qdv5A",
+      "title": "La sécurisation des droits du paysage  | GLF at UNCCD COP15",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "p7vHxjQEWnM",
+      "title": "Garantir les droits fonciers pour atteindre la neutralité en matière de dégradation des terre",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "Gpi0VXKSPB8",
+      "title": "Marcello Brito: Why climate negotiations fail",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "o_HxMLgTvBk",
+      "title": "NA",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "WfDgGFYSo5M",
+      "title": "Walter Willett: The future of food | #GLFClimate 2021",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "PX1b-H_aoHM",
+      "title": "Gary Juffa: We are all Indigenous Peoples | #GLFClimate 2021",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "0ZJRDIVkJaQ",
+      "title": "Paul Polman: How to create a net positive economy | #GLFClimate 2021",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "qPsVeQAr4Oc",
+      "title": "Jennifer Pryce: How to fund the green transition | #GLFClimate 2021",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "QhLjtWar6b4",
+      "title": "Amazonia Is the Way to Our Future Business as a Force for Good (Spanish version)",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "6W40pQ-m8JA",
+      "title": "Development of community-based biomass power generation & land restoration with bamboo in Indonesia",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "XLV8-YX8BFY",
+      "title": "Beyond Borders: Migration and the Climate Crisis",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "ax-MutvLwmw",
+      "title": "The Interconnectedness Between the Ongoing Desert Locust Crisis 2019-2021+ and the Climate Crisis",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "bGXRJf0Nju4",
+      "title": "NA",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "diBMUCJ54d0",
+      "title": "NA",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "mZHnHz5LrxE",
+      "title": "NA",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "myIlEOl5_T8",
+      "title": "O Ponto de Inflexão: O que significa para a vida no planeta?",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "C1QXw_qwzio",
+      "title": "O Dieback da Floresta Amazônica: ciência, impactos e soluções",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "jy0JZUR1Cnc",
+      "title": "Agroecologia, Arqueologia e Antropologia",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "R13oczUQCiM",
+      "title": "A Geopolítica do Desmatamento Zero: Conectando oferta e demanda",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "j6eLFwe9MMw",
+      "title": "Vozes dos Territórios: garantia de direitos para paisagens sustentáveis",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "850b21ThmN8",
+      "title": "Soluções de financiamento para cadeias de valor sustentáveis, inclusivas e resilientes",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "AYYfUCgm3u0",
+      "title": "Vozes dos Territórios: novos paradigmas para relações humano-natureza",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "QKxZL3abIk4",
+      "title": "Como construir um modelo de desenvolvimento endógeno?",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "rgP2FfsUlkg",
+      "title": "Visões para uma Amazônia sustentável, equitativa e resiliente",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "xfPqoJxFsRk",
+      "title": "E agora? Como ampliar negócios sustentáveis, financiamento climático",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "I2qf4dH0R_I",
+      "title": "Festival de Cinema da Amazônia - Day 3",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "AbOS63gDTNA",
+      "title": "Abrindo espaços para organizações conservacionistas de mulheres",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "DE8SkYPX7nE",
+      "title": "Apresentando Soluções para a Amazônia",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "4z_p8j1PDkQ",
+      "title": "Ativismo Climático da Juventude no Brasil",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "ld9iseu9XQ8",
+      "title": "Fundos geridos pela comunidade na Amazônia brasileira (Povos Indígenas e comunidades tradicionais)",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "L68C_KKYmm8",
+      "title": "Por que uma mobilização do \"gigaton verde\" de financiamento das florestas tropicais",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "Ktv_NHhrKB0",
+      "title": "Mulheres pelo clima, conservação e restauração na Amazônia",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "d8jCYmLNE9M",
+      "title": "Programa de Acordos Holísticos para a Vida Integral",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "6MxdJV9p9XU",
+      "title": "Construindo uma economia florestal na Amazônia",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "S3n7P8_ZRH4",
+      "title": "Lições aprendidas para o desenvolvimento sustentável na região MAP, Amazônia",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "UWEO1SACRiM",
+      "title": "Defensores ambientais da Amazônia peruana: avanços e desafios",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "GlZbl6WhMGQ",
+      "title": "Religiões em ação para a Amazônia",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "nZIG1IlTKTk",
+      "title": "O que significa Bioeconomia?",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "n7Ar9DWJPg4",
+      "title": "Ações de colaboração para a prosperidade rural e conservação da biodiversidade no Peru",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "-zki6CIlVIQ",
+      "title": "Como a diversidade funcional ppode promover o convívio?",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "T2LnbXD03rU",
+      "title": "Jovens mulheres em ação: protegendo o direito das pessoas e da natureza",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "sfS7FFjNN5M",
+      "title": "Jovens indígenas contadores de histórias de Madre de Dios apresentam curtas-metragens",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "F297bL19rWI",
+      "title": "A visão amazônica da RedParques: um compromisso para todos nós",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "UVF52TgzVlE",
+      "title": "Caminhos possíveis para o manejo florestal sustentável na Amazônia",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "gIfXfER9Voc",
+      "title": "Agricultura com árvores: aprendizagem entre agricultores agroflorestais brasileiros e peruanos",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "n661PMwZ3ww",
+      "title": "Serviços Ecossistêmicos do Bambu e a sua relação com os meios de subsistência amazônicos",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "AaXhP_G2iPU",
+      "title": "As realidades da produção de carne: dos pequenos produtores aos consumidores",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "qt2uDXUjh8k",
+      "title": "O papel dos pequenos agricultores para o sucesso do desmatamento zero",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "crG2qSiDdBc",
+      "title": "Jovens ECOpreendedores: em distanciamento de modelos de negócios tradicionais",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "-S1pNr1VO_s",
+      "title": "Um novo kit de ferramentas para gestão territorial indígena",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "3BBQZ3Wq12g",
+      "title": "Do Espaço à Aldeia: Informação geoespacial para a melhoria de tomada de decisões ambientais",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "zN9Ti4lC3MM",
+      "title": "De Olho na Amazônia: conectando estratégias, territórios e organizações",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "g9LaFeq6D90",
+      "title": "Coffee with Sineia Wapichana - GLF Amazonia",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "riYSHNN-up4",
+      "title": "Coffee with Alcilene Cardoso",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "4JAbvonSCOI",
+      "title": "El punto de inflexión: ¿Qué significa para la vida en el planeta?",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "n2F7FdLOSSU",
+      "title": "La extinción paulatina de la Amazonía: ciencia, consecuencias y soluciones.",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "cwE5BXHWT6o",
+      "title": "Voces de los paisajes: derechos para paisajes sostenibles",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "e0qbilPYhBw",
+      "title": "Agroecología, Arqueología y Antropología",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "CvheoPyCHCU",
+      "title": "La geopolítica de la cero deforestación",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "_zTcGcMA9ZM",
+      "title": "¿Cómo construir un modelo de desarrollo endógeno?",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "ZJ0EoC_iuXw",
+      "title": "Voces de los paisajes: nuevos paradigmas de la relación entre humanos y naturaleza",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "OGcAHTeYxgs",
+      "title": "Visiones para una Amazonía sostenible, equitativa y resiliente",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "5Gi3eFnYea0",
+      "title": "Soluciones de financiación para cadenas de valor sostenibles, inclusivas y resilientes",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "khG--2F6WP0",
+      "title": "Facilitando espacios para la conservación con perspectiva de género",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "frHLMFMBGeU",
+      "title": "Festival de Cine de la Amazonía - Day 3",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "tbbDjH2b6sk",
+      "title": "Activismo climático juvenil en Brasil: conceptos básicos",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "SNeig3W6Xqk",
+      "title": "Acuerdos holísticos para el Programa Vida Plena",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "xgpSBHrv1xo",
+      "title": "Fondos gestionados por la comunidad en la Amazonía brasileña",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "kBU5W_JXdRc",
+      "title": "Las mujeres y el clima, la conservación y la restauración de la Amazonía",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "b3Hv3iKJSY4",
+      "title": "Por qué una movilización \"green gigaton\" de la financiación de los bosques tropicales",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "VgCzdj3RDcM",
+      "title": "Soluciones para la Amazonía",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "0wtew8ebF_c",
+      "title": "Construcción de una economía basada en los bosques, en la Amazonía",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "gFGYktA4jbM",
+      "title": "Lecciones aprendidas para el desarrollo sostenible en la Región MAP de Amazonía",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "tRhZd4Nm8F4",
+      "title": "Defensores ambientales de la Amazonía peruana: Avances y retos",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "5RAwNsPFht8",
+      "title": "Religiones en acción por la Amazonía",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "kMmd7QWD_1c",
+      "title": "¿Qué es \"bioeconomía\"?",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "3tUEPN0_fvc",
+      "title": "Festival de Cine de la Amazonía",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "gYlSbpCrzII",
+      "title": "Acciones colaborativas para la prosperidad rural y conservación de la biodiversidad en Perú",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "vWmPtgaJpQE",
+      "title": "¿Cómo puede la diversidad funcional fomentar la convivencia?",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "eT6_f-tZM8E",
+      "title": "Mujeres jóvenes en acción: protección de los derechos de las personas y la naturaleza",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "HMWIoEP2Eug",
+      "title": "Jóvenes narradores indígenas de Madre de Dios presentan cortometrajes",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "qrPLApZFkjQ",
+      "title": "La visión amazónica de la RedParques: un compromiso de todos",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "l6hkWTuVIV0",
+      "title": "Posibles vías para la gestión forestal sostenible en la Amazonía",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "W2VvY8kwrfs",
+      "title": "Cultivar con árboles: aprendizaje entre agricultores agroforestales brasileños y peruanos",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "pe4V6DEb-Gc",
+      "title": "Los servicios ecosistémicos del bambú y su relación con los medios de vida amazónicos",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "Zlfo-rZope4",
+      "title": "La realidad de la producción de carne: de los pequeños productores a los consumidores",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "bVARahfMu6Q",
+      "title": "El papel de los pequeños agricultores para lograr la deforestación cero",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "120O6Ezrp9w",
+      "title": "Jóvenes ecoempresarios: alejarse de los negocios tradicionales",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "Gfuu4UcsmuM",
+      "title": "Nuevas herramientas para la gestión territorial indígena",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "UzjzgtBQv1s",
+      "title": "Conectar al espacio con los pueblos: información geoespacial para mejorar la toma...",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "ybWdIYZ3JFM",
+      "title": "Todos los ojos en la Amazonía: vinculación de estrategias, territorios y organizaciones",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "kzBPPpJBvdw",
+      "title": "¿Podemos salvar la Amazonía solos?",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "1z1XwQNaQic",
+      "title": "GLF AMAZONIA THE TIPPING POINT",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "6ltDIUYwtiY",
+      "title": "CONFERÊNCIA DIGITAL GLF AMAZÔNIA: PONTO DE INFLEXÃO",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "sQv770nXj_Y",
+      "title": "CONFERENCIA DIGITAL GLF AMAZONÍA: PUNTO DE INFLEXIÓN",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "91PJ0Fn155s",
+      "title": "Protect Amazonia! Life is One and in Our Hands",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "zp_IEL3omfY",
+      "title": "Financing solutions for sustainable, inclusive and resilient value chains",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "C092YlihIX4",
+      "title": "How to build an endogenous development model",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "zILe207hosU",
+      "title": "Visions for a sustainable  equitable and resilient Amazon",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "i1KbG3OUEN8",
+      "title": "Voices of the Landscapes New paradigms for human nature relations",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "SYSLD1yACdI",
+      "title": "Amazonia Film Festival - Day 3",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "d7xIP6tuKv0",
+      "title": "Community-managed funds in the Brazilian Amazon (Indigenous Peoples & traditional communities)",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "peei1T_wagI",
+      "title": "Facilitating Spaces for Gender Responsive Conservation: Women’s Solutions from the Amazon",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "Jk_mM8saKoc",
+      "title": "Holistic agreements for the Full Life Program",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "DaUwz_YSooY",
+      "title": "Showcasing solutions for the Amazon",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "w9rxs6ygOqg",
+      "title": "What does \"bioeconomy\" mean?",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "wQ2IjhCdlMc",
+      "title": "Women in climate, conservation and restoration in the Amazon",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "cD5fzmMik2c",
+      "title": "Building a forest-based economy in the Amazon",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "8Qag66KfUsg",
+      "title": "Lessons learned for sustainable development in the MAP Region, Amazonia",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "rs8m8nzOx1w",
+      "title": "Environmental defenders of the Peruvian Amazon: progress and challenges",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "XvhoUstyiXo",
+      "title": "Religions in action for the Amazon",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "-TkBnPV17LQ",
+      "title": "Amazonia Film Festival - Day 2",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "hobQPGDBrFM",
+      "title": "Collaborative actions for rural prosperity and biodiversity conservation in Peru",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "6Zi6bPH57fU",
+      "title": "How can functional diversity foster conviviality?",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "ke10ttr1jqQ",
+      "title": "The Tipping Point Solutions from the Inside Out",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "Jg2Kf9atKts",
+      "title": "Young women in action: protecting rights of people and nature",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "BgcfVUo5DLU",
+      "title": "Young Indigenous storytellers from Madre de Dios present short films",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "v6LJkuWeYhU",
+      "title": "The Amazon vision of RedParques: a commitment for all of us",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "j2sep9oHgXY",
+      "title": "Possible pathways toward sustainable forest management in the Amazon",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "zJzYVZP_kGI",
+      "title": "Farming with trees: learning among Brazilian and Peruvian agroforestry farmers",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "vlDvkT1pdaw",
+      "title": "The Amazon forest dieback the science  impacts and solutions",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "yy379w2UF78",
+      "title": "Bamboo ecosystem services and their relationship with Amazonian livelihoods",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "ImSPo6K-WYk",
+      "title": "Agroecology, Archeology and Anthropology",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "5ivOFj6x-qI",
+      "title": "Amazonia Film Festival",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "KdwfO9w1ccg",
+      "title": "The realities of meat production: from smallholder producers to consumers",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "1Yf9lMeusX0",
+      "title": "The geopolitics of zero deforestation Connecting the demand and supply sides of the story",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "0pDT7NTuPp0",
+      "title": "Young Ecopreneurs: Moving away from business as usual",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "Slmofpb7RAo",
+      "title": "A new toolkit for Indigenous territorial management",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "8yo21PMlYfY",
+      "title": "Connecting space to village: Geospatial information for improved environmental decision-making",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "LSkNTxaqzHE",
+      "title": "All eyes on the Amazon: linking strategies, territories and organizations",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "8jhIRT2Po8o",
+      "title": "Can we save the Amazon alone? Connections between the Amazon and its neighboring biomes",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "8sQk6HWkt_s",
+      "title": "GLF Amazonia Journalism Seminar: Session 2",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "02v4t6RsfPo",
+      "title": "GLF Amazonia Journalism Seminar: Session 3",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "BwpNWgm2UIA",
+      "title": "GLF Amazonia Journalism Seminar: Session1",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "k8S5cmnKwkk",
+      "title": "Coffee with Felipe Villela",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "A92ael44Zt8",
+      "title": "Coffee with Iliana Monterosso",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "Bjt1cyMfGbU",
+      "title": "Restoration Stewards - Sumarni Laman",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "-dpzx8JqjzI",
+      "title": "Restoration Stewards - Charity Lanoi",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "JpyN5NcNuc4",
+      "title": "Restoration Stewards - Frances Camille Rivera",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "iylYYOpE5Sc",
+      "title": "Restoration Stewards - Grace Easteria",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "FgnSshDfA1E",
+      "title": "Restoration Stewards - Analí Bustos",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "hi6dPOZ9Em4",
+      "title": "Restoration Stewards - Marlon Webb",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "9CbchF2sXPQ",
+      "title": "Seven Young Changemakers Restoring the Earth",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "R6djAfdF0NI",
+      "title": "About the Restoration Stewards",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "YXkIZ1x4_4g",
+      "title": "The continuation of Indigenous youth in the protection of ancestral land",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "JUSrn3eiqb0",
+      "title": "Defending the Coast: Living Beach, Dunes and Community in Sisal",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "WJ2AEAIrd-I",
+      "title": "📢 Coming soon | 2027 Restoration Stewards!",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "YcDNZd-2T-U",
+      "title": "Drylands: what, where and why should we care?",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "rxUCejIAnrY",
+      "title": "Inspirational video by Pierre Thiam",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "ax0ir7fPyI4",
+      "title": "Inspirational video by Carole Dieschbourg",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "z6QtR04cbAI",
+      "title": "There is no one solution, but a whole set of solutions - Inspirational talk by Robert Nasi",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "IVrJwii2YBc",
+      "title": "Stefan Schmitz Lightning Talk",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "ad3nXX9ois8",
+      "title": "Partnering with dryland communities to overcome protracted crises: Challenges and opportunities",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "9_sFRuk0ZXI",
+      "title": "Shaping the UN Decade: Creating synergies between sectors and scales",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "SUZJYaxuhxY",
+      "title": "An intergenerational dialogue exploring solutions to land tenure challenges",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "9QbYNxwpDHI",
+      "title": "The Roots of Restoration: Sustainability through community-based forest landscape restoration",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "Fe-JBllSRK0",
+      "title": "Voices From the Field: The s/heroes of landscape restoration",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "XtrrUXWHjVQ",
+      "title": "Leveraging UN Food Systems Summit solutions in the restoration decade",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "z64wYBChS5w",
+      "title": "Framing the UN Decade: An African perspective on ecosystem restoration",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "aPBbDk97Pno",
+      "title": "Scaling Finance: Restoring Africa’s drylands through private investment and local projects",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "lb-hjpCHQQI",
+      "title": "YIL: Agroforestry: An opportunity for youth and drylands",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "x8v8hrg1X2Y",
+      "title": "YIL: Women of the Drylands: An intergenerational conversation",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "H7kmIkaVU3s",
+      "title": "Innovative solutions to strengthen resilience in the drylands",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "WWSM217JJdM",
+      "title": "Biodiversity for Resilience: Harnessing crops’ potential for drylands restoration...",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "LeBYFvDONjI",
+      "title": "Untapped Potential: The Importance of African genebanks in ensuring food security...",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "8jFSsnIr3nc",
+      "title": "A Land of Opportunity: Exploring the potential of drylands for youth employment",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "ebKi6UT_fnY",
+      "title": "YIL: Drylands of Hope: Stories from African Youth",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "whJ-Bf2CLe0",
+      "title": "Decolonizing restoration: laying solid foundations for #GenerationRestoration",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "CCQnEysA-_A",
+      "title": "Restoring Sahelian Drylands: Practice, evidence, lessons and scaling",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "2Rv61qnk9Qg",
+      "title": "Launching the GEF-7 Dryland Sustainable Landscapes Impact Program",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "VMyxYlbxvpg",
+      "title": "From community-led restoration to carbon-enhancing landscapes",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "Dpb9T2gZnNE",
+      "title": "About Global Landscapes Forum (GLF) - draft",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "-qSzf-0AcM4",
+      "title": "Rangelands Atlas: Bringing an essential, globally neglected ecosystem into focus",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "IasWEdFbVF8",
+      "title": "The Wood Solution: The key to driving large-scale forest restoration",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "Jd6qJu6u_7w",
+      "title": "Biochar and its practical application to restore degraded lands",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "QjqAfEr0peo",
+      "title": "-Perspectives on Pastoralism Film Festival: Global recognition of pastoralism and its future",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "kjbDfldEw7w",
+      "title": "Monitoring the UN Decade on Ecosystem Restoration",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "YRX4pJIMSds",
+      "title": "Satellite monitoring for forest management",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "tmROWxv3HYI",
+      "title": "Perspectives on Pastoralism Film Festival: Speaking truth to power: pastoralists’ advocacy",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "EKmsTkc3xwI",
+      "title": "Perspectives on Pastoralism Film Festival: Pastoralist livelihoods in Africa",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "DXjflr4Dzwg",
+      "title": "NA",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "ax7vPnLu6LE",
+      "title": "Dedicated Grant Mechanism (DGM) and support for Indigenous Peoples and...",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "Ze63GKE1Edo",
+      "title": "Know-how needed for successful forest landscape restoration in Africa",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "7dsjH0Z-E_Q",
+      "title": "Perspectives on Pastoralism Film Festival: Mining threats in pastoralist areas",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "EV30u1NG8No",
+      "title": "Symphony of Science and Practice: Bringing evidence to bear for land restoration practice...",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "OLF8E1EPrkc",
+      "title": "Restauration des Forêts et des Paysages: défis et opportunités pour la Décennie à venir",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "QFRC7A2AVBI",
+      "title": "Virtual Tour: Journey to the drylands of East Africa, the last lands of Eden",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "-BqL5cbKNi4",
+      "title": "Perspectives on Pastoralism Film Festival: Global recognition of pastoralism and its future",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "nYJa5tac1yk",
+      "title": "\"We, the youth of the world, have a plan for the health of the people and of our planet\"",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "HMmZXoIjpUo",
+      "title": "How is filmmaking protecting the future of culture?",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "4nvFePIAKIg",
+      "title": "Meet the Restoration Stewards",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "Evn4VSIw_2U",
+      "title": "Learning from the Earth: Indigenous Youth in Agrobiodiversity",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "QUSz91OmiTc",
+      "title": "Transformative change and the age of collective action",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "PQWqgfvLZkE",
+      "title": "Youth Daily Show : Let’s tune in...with nature!",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "uQiTx2EF2_o",
+      "title": "YIL Video Challenge",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "y9DH5We9kR4",
+      "title": "One World, One Health",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "6Kijq3jsg1c",
+      "title": "Strengthening post-2020 agendas: biodiversity, restoration",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "LvmgxIAyx-A",
+      "title": "Financing diversity - the smallholder's perspective",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "6USY-x3mPVo",
+      "title": "Restoring Asian drylands – Landscape Partnership for Asia",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "niTqqPN70_E",
+      "title": "Agrobiodiversity for resilient food systems",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "GphHYqSPVZw",
+      "title": "Aprovechar el poder de la naturaleza: financiar una bioeconomía en América Latina",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "enwUU-ykrZA",
+      "title": "Experts: building hope for biodiversity",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "X6vtzCGDoQ0",
+      "title": "Voices of the Landscapes",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "Rd2YnLXcNjA",
+      "title": "Collective call: global, transformative action",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "nYck2DeAT6Q",
+      "title": "Mainstreaming biodiversity in the forest sector",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "gIeSgXaSoqY",
+      "title": "Put out the match on monocultures?",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "RZTtliV18u0",
+      "title": "The power of data in protecting Central Africa’s biodiversity",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "-3wbUZeZ9bY",
+      "title": "Assessing and enhancing capacities to restore ecosystems globally",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "MiTm2CoaAGM",
+      "title": "“Restoring the Earth: the next decade” – latest Unasylva journal edition release",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "d36qsoDzRgY",
+      "title": "Global Evergreening Alliance: Capturing collaboration from the ground up",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "QiQzgG9WwAg",
+      "title": "Humanity at a crossroads – key messages from the Global Biodiversity Outlook",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "Mp_oY0TVbF0",
+      "title": "Biocultural Conservation and Support for Indigenous Land Management",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "wQxjAUm1KUs",
+      "title": "The role of diverse agricultural landscapes in biodiversity conservation and food system resilience",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "IiCNQALuE98",
+      "title": "The Hindu Kush Himalayan Call for Action: Maintaining the ‘Pulse of the Planet’",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "RinDAEz9hWk",
+      "title": "Tackling the risks of wildlife-borne disease pandemics – policy and investment priorities",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "yt2uYwxPmQM",
+      "title": "Seizing the landscape opportunity to catalyse transformative biodiversity governance",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "7RAuCM6U_4c",
+      "title": "Rights-Based Ecosystem Approaches for a Green, Just Recovery",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "c23uN46GHkc",
+      "title": "Rangeland health restoration initiative for “One World – One Health”",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "ZGrVfGEBDt8",
+      "title": "Protected areas in a post-COVID world",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "KjDMJ4ioqw8",
+      "title": "Promoting Smart Biodiverse Farming for Agricultural Sustainability in Remote Communities",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "8u228jwSu1Q",
+      "title": "Peatlands, a Super Nature Based Solution",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "7fgaCc4w2nw",
+      "title": "Lessons From Indonesia  building a nature based economy through jurisdictional approaches",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "-0H-MrcgFrg",
+      "title": "GLF in Action: Kicking off the first GLFx chapters and announcing the Restoration Stewards",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "4bV0_7tDsUQ",
+      "title": "Landscape biodiversity for healthy people and healthy economies",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "XI8s1nf3O_I",
+      "title": "Indigenous Solutions to Global Challenges in Sarawak, Malaysian Borneo",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "vGtNhhJITww",
+      "title": "For forests’ sake: Transforming extractive industries and infrastructure to achieve NYDF Goal 3",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "w2cdMmn2MSs",
+      "title": "Food Forever: Biodiversity for Resilience",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "4z0wdxfn76Y",
+      "title": "Financial incentives for a biodiversity-friendly future – is green recovery a catalyzer?",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "ECikCql4sJA",
+      "title": "Collaborating to operationalize landscape approaches for nature, development and sustainability",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "70iY8T54N68",
+      "title": "A One Health approach for environmental, animal and human health",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "NnN0vx5NH3M",
+      "title": "Stefan Schmitz on crop diversity",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "EISJEsASlWw",
+      "title": "On campus with Robert Nasi",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "BmLqqxJyvQg",
+      "title": "Bård Vegar Solhjell on sustainable land use",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "eNNUoDuqBZg",
+      "title": "Ma Jun, Director, Institute of Public and Environmental Affairs, China",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "K8jcj-1ppUY",
+      "title": "Carole Dieschbourg on creating the new normal",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "5XR7hIY6Mi8",
+      "title": "Jennifer Morgan on environmental justice",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "bbIhwRHnEzw",
+      "title": "Galina Angarova on biocultural diversity",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "V7k_QVbvz2s",
+      "title": "Gilbert F. Houngbo: biodiversity through the lens of rural development",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "4Pbgiu8aM4w",
+      "title": "Rewilding as a biodiversity engine",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "wmQpDRBdj40",
+      "title": "Peatlands, a Super Nature Based Solution (French audio)",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "GA4jHFnEUc4",
+      "title": "Peatlands, a Super Nature Based Solution (Spanish audio)",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "LwpU7N6A8fg",
+      "title": "7 Pathways to live in harmony with nature",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "9eeY-dVek-o",
+      "title": "4 food system lesson to learn from Indigenous communities",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "a7C8n7EDqK4",
+      "title": "Food should be a human right. Here’s how we get there.",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "ghkB_yLNP3Q",
+      "title": "Cooking traditional Catalan dish ‘Arros amb conill’ (rice with rabbit) with Chef Ada Parellada",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "2hEC60VLahA",
+      "title": "Youth Daily Show - NO Food Waste",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "MHPEt9O2YIw",
+      "title": "Pajapan, agua y monte para Siempre",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "-7WzipsR5KI",
+      "title": "César Pachón Achury",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "-6yI9m5Gyas",
+      "title": "Inspirational talks by Crop Trust’s Stefan Schmitz and climate activist Vanessa Nakate and Sadhguru",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "tcjbLmHHN2Q",
+      "title": "NA",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "u_9By5H1m1Q",
+      "title": "GLF Bonn 2020 | Opening plenary: “A new normal” – Jose Yturrios",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "k2Nbvnx_ZgE",
+      "title": "Addressing forest crime through improved governance in the post COVID-19 recovery",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "q9096IKudiM",
+      "title": "How a One Health approach can prevent and mitigate future pandemics",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "rBxjDRqZJ5E",
+      "title": "Por su propio bien: por qué debemos proteger a las turberas",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "xmqFDnZ6VsE",
+      "title": "It is all connected.",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "orCFGBaFRo4",
+      "title": "#GLFLive | What are the main outcomes from UNCCD COP15?",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "GS_BEk1sDGM",
+      "title": "[Audio en español] #GLFLive Part 2: How can managed landscapes contribute to biodiversity goals?",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "za-zJGbF-jI",
+      "title": "[Audio en español] #GLFLive Part 1: How can managed landscapes contribute to biodiversity goals?",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "1QM_l68hEfk",
+      "title": "#GLFLive with Robert Nasi and Annika Terrana",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "dT75JRR3asc",
+      "title": "#GLFLive: Q&A with Otto Scharmer",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "v9XJwMbQ6rM",
+      "title": "#GLFLive: World Health Day Q&A with Kate Jones and Thomas Gillespie",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "soREckFcWKI",
+      "title": "#GLFLive: Q&A with Charlotte Streck",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "rsIxrMs8I2c",
+      "title": "#GLFLive | How will Pakistan plant 10 billion trees?",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "GHiQtNP01AI",
+      "title": "Interview with Joseph Tsongo - GLF Accra 2019",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "oosIswju1eA",
+      "title": "Collaborating to transform Africa’s farms and forests| Bernhard Worm at GLF Accra 2019",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "iBQFMHJ3yWQ",
+      "title": "COP 25: The Forest People of the Tomsk Region",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "M44EHNhWdiE",
+      "title": "Accelerating the Implementation of REDD+ and Results based Payments in Africa",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "GGOmWMtqXeU",
+      "title": "Closing - Musical Performance by Shade - GLF Accra 2019",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "AFEZk81IIf8",
+      "title": "The forest is a part of me, Elizabeth Wanjiru Wathuti, Kenya",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "ALEcF-T3cIY",
+      "title": "Rebekah Moses  - GLF New York 2019",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "aVHU_Fe5R6U",
+      "title": "Q&A with Christiane Paulus from the German Ministry for Environment",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "Ur1UNiRHxDU",
+      "title": "Sonia Guajajara - Interview at the GLF Bonn 2019",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "BHJZqO21tHA",
+      "title": "Kathrin Wessendorf  - Interview at the GLF Bonn 2019",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "A6rCF3XubFs",
+      "title": "Robert Nasi - Welcome message GLF Bonn 2019",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "GkRLZmGlFBE",
+      "title": "[Private video]",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "vdsinbQXGV8",
+      "title": "Daisaku Kadokawa - GLF Kyoto 2019",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "BAGAxnGoz8c",
+      "title": "Toru Hayami - GLF Kyoto 2019",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "Whm6GaYw8K8",
+      "title": "Robert Nasi - GLF Kyoto 2019",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "F3WxhRw83TI",
+      "title": "Robert Nasi, DG, CIFOR – Closing Plenary GLF Kyoto 2019",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "aw_SqlNxcBk",
+      "title": "Emil Fischer - Bamboo for Integrated Development Ghana",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "EruyEHL-kQ8",
+      "title": "Lawrence Haddad, Executive Director, Global Alliance for Improved Nutrition",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "Ilnar-odxqs",
+      "title": "Abdalah Mokssit - Secretary of the IPCC",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "ei_CUKIX10E",
+      "title": "Kyoto 2019 Digital Edition - ACT 1",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "B1Cz_sZu698",
+      "title": "Constance Okollet – short interview at GLF Kyoto 2019",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "IwuVjmO0ce4",
+      "title": "Discussion Forum 14: From forests to markets, making supply chains greener through PPPs",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "niIhl-t9N3Q",
+      "title": "Panel discussion: Implementing the UNFCCC Local Communities and Indigenous Peoples’ Platform",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "J9wiRSiPeZc",
+      "title": "Takeshi Shimotsuma - Closing Remarks, GLF at COP24",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "lnq_cx0aj5k",
+      "title": "Interview with Stephanie Avalos - GLF at COP24",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "B5C10IZAbTs",
+      "title": "Interview with Charlotte Streck - GLF at COP24",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "xWBCcmFQ6_k",
+      "title": "Felipe Villela - Using agroforestry to turn degradation into profitability",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "W9A9u41E2Ck",
+      "title": "Eva Rood and Simon Moolenaar - The joys of developing transdisciplinary landscape education",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "garHYcF0K24",
+      "title": "Rhett Butler - Big talk  How to effectively communicate conservation science",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "Hk4xfub_YYg",
+      "title": "Re-imagining palm oil: A living landscape approach in the heart of Africa",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "qGaY6b0TVbk",
+      "title": "David Meyers - More than the money  Financial solutions for natural landscapes",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "jyPXGUaL-xU",
+      "title": "Working with nature: GLF in conversation with Tony Rinaudo",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "lvhHT55U1x4",
+      "title": "Yacouba Sawadogo - Keynote speech at GLF Bonn 2018",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "15RD-NhbzKQ",
+      "title": "Reinhard Limbach - Opening plenary GLF Bonn 2018",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "P5imD3e1eZo",
+      "title": "Plant for the Planet founder, Felix Finkbeiner, in conversation with GLF",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "334r_NF8vxw",
+      "title": "Jyotsna Puri - Keynote speech at GLF Bonn 2018",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "UaC9r_fAvZU",
+      "title": "Tony Rinaudo - Keynote speech at GLF Bonn 2018",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "1JTICPtiY5M",
+      "title": "Interview with Dennis del Castillo - GLF Bonn 2018",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "AlA3Z--SsFw",
+      "title": "Interview with Juan Carlos Mendoza - GLF Bonn 2018",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "3uZytBHJqJQ",
+      "title": "Interview with Fe Cortez - GLF Bonn 2018",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "rL-iJEkxvY0",
+      "title": "Interview with Joseph E. Mbaiwa - GLF Bonn 2018",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "V65eRyj9wgc",
+      "title": "Interview with Jefferson Hall - GLF Bonn 2018",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "TH-hwL0tIkA",
+      "title": "NA",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "QKGQG-7c1dY",
+      "title": "Landscape leadership in 60 seconds: Andrea Elizabeth Morales Rivas, El Salvador",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "BMgmnO-SWgo",
+      "title": "NA",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "oB_uLdDt_1k",
+      "title": "GLF Interview with Salvador Ernesto Nieto Cárcamo",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "3MosIdrRDhY",
+      "title": "Interview with Nancy Githaiga - GLF Nairobi 2018",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "lHx2D3JuBzE",
+      "title": "GLF Interview with Salvador Ernesto Nieto Cárcamo (Spanish version)",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "jMSF75ygLbI",
+      "title": "NA",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "sSjVsaV6rt8",
+      "title": "NA",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "DmQ2_Rb51XQ",
+      "title": "NA",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "BXX7Id3GBrQ",
+      "title": "Robert Nasi - Opening remarks GLF Bonn 2017",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "RyGlJOOhApM",
+      "title": "Daniel Murdiyarso - Why care about peatlands?",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "EHrW4IuMq5E",
+      "title": "Jacques Attali - Video address GLF Bonn 2017",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "V_vw6-6Txjs",
+      "title": "Robert Nasi - Closing plenary GLF Bonn 2017",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "AbgezebqfOI",
+      "title": "Dr. Elsa Nickel - Closing plenary GLF Bonn 2017",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "2Hev81y0Obo",
+      "title": "Paola Agostini - Smart Technologies Forest Smart",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "I098n_9LPP4",
+      "title": "NA",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "wk-MgC_efe8",
+      "title": "NA",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "f5O-cp53Uc4",
+      "title": "Restoring NW European peatlands through sustainable building material",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "7VkbMJc_WEg",
+      "title": "Mangroves and Wetlands Ecosystem Management in Bangladesh - Dr. Shafi Noor Islam",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "hu_5_Q688yg",
+      "title": "Terry Sunderland - Integrated landscapes approaches: From theory to practice",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "WkEMRw8xvBA",
+      "title": "Minister Barbara Hendricks - The future of the GLF",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "vjAUxevEUQE",
+      "title": "GLF Digital Summit #5 \" What is the Landscape Approach?\"",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    }
+  ],
+  "cues": 459022,
+  "captionSource": {
+    "manual": 8,
+    "auto": 966
+  },
+  "windows": 58029,
+  "speakers": 292
+}
